@@ -1,3 +1,6 @@
-print("Hello Umo Akwang")
-print("Congratulations on your first python project")
-print("First step of many to come. Do Great things!")
+import calculator
+
+print(calculator.divide(2,2))
+print(calculator.add(2,4))
+print(calculator.multiply(2,4))
+print(calculator.subtract(2,2))
